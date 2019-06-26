@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge.iml" filepath="$PROJECT_DIR$/newlife-charge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-common/newlife-charge-common.iml" filepath="$PROJECT_DIR$/newlife-charge-common/newlife-charge-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-controller/newlife-charge-controller.iml" filepath="$PROJECT_DIR$/newlife-charge-controller/newlife-charge-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-core/newlife-charge-core.iml" filepath="$PROJECT_DIR$/newlife-charge-core/newlife-charge-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-dao/newlife-charge-dao.iml" filepath="$PROJECT_DIR$/newlife-charge-dao/newlife-charge-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-service/newlife-charge-service.iml" filepath="$PROJECT_DIR$/newlife-charge-service/newlife-charge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newlife-charge-web/newlife-charge-web.iml" filepath="$PROJECT_DIR$/newlife-charge-web/newlife-charge-web.iml" />
+    </modules>
+  </component>
+</project>

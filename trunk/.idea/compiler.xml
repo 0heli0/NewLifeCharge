@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newlife-charge-common" />
+        <module name="newlife-charge-controller" />
+        <module name="newlife-charge-core" />
+        <module name="newlife-charge-dao" />
+        <module name="newlife-charge-service" />
+        <module name="newlife-charge-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="newlife-charge" target="1.8" />
+      <module name="newlife-charge-common" target="1.8" />
+      <module name="newlife-charge-controller" target="1.8" />
+      <module name="newlife-charge-core" target="1.8" />
+      <module name="newlife-charge-dao" target="1.8" />
+      <module name="newlife-charge-service" target="1.8" />
+      <module name="newlife-charge-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
