@@ -66,16 +66,6 @@
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
 
-		<dependency>
-			<groupId>org.apache.activemq</groupId>
-			<artifactId>activemq-all</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.activemq</groupId>
-			<artifactId>activemq-spring</artifactId>
-		</dependency>
-
 	</dependencies>
 
 
